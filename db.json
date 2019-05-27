@@ -1,7 +1,10 @@
 {
-  "yaoi": [
+  "img": [
     {
-      "yaoi": "1"
+      "yaoi": 1
+    },
+    {
+      "nothing": 0
     }
   ]
 }
